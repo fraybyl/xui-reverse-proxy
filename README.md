@@ -1,5 +1,4 @@
 [RUSSIAN](/README_RU.md)
-<p align="center"><a href="#"><img src="https://github.com/cortez24rus/xui-reverse-proxy/blob/test/media/3X-UI.png?raw=true" alt="Image"></a></p>
 
 # XUI-REVERSE-PROXY
 
@@ -54,14 +53,14 @@ This script is intended for quick and easy configuration of a hidden proxy serve
 
 To begin configuring the server, simply run the following command in a terminal:
 ```sh
-bash <(curl -Ls https://github.com/cortez24rus/xui-reverse-proxy/raw/refs/heads/test/xui-rp-install-server.sh)
+bash <(https://github.com/cortez24rus/xui-reverse-proxy/raw/refs/heads/main_archive/xui-rp-install-t.sh)
 ```
 
 ### Tg-bot:
 
 In order to install a bot on the server, it is enough to configure the launch of the base script with the -bot switch:
 ```sh
-bash <(https://github.com/cortez24rus/xui-reverse-proxy/raw/refs/heads/test/xui-rp-install-server.sh) -bot
+bash <(https://github.com/cortez24rus/xui-reverse-proxy/raw/refs/heads/main_archive/xui-rp-install-server.sh) -bot
 ```
 
 The script will then prompt you for the necessary configuration information:
