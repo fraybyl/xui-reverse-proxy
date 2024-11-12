@@ -1,5 +1,4 @@
 [English](/README.md)
-<p align="center"><a href="#"><img src="https://github.com/cortez24rus/xui-reverse-proxy/raw/test/media/3X-UI.png" alt="Image"></a></p>
 
 # XUI-REVERSE-PROXY
 
@@ -54,16 +53,17 @@
 
 Для того чтобы начать настройку сервера, достаточно выполнить следующую команду в терминале:
 ```sh
-bash <(curl -Ls https://github.com/cortez24rus/xui-reverse-proxy/raw/refs/heads/test/xui-rp-install-server.sh)
+bash <(curl -Ls https://github.com/cortez24rus/xui-reverse-proxy/raw/refs/heads/main_archive/xui-rp-install-server.sh)
 ```
 
 ### Tg-bot:
 
 Для того чтобы установить бота на сервер, достаточно выполнить запуск базового скрипта с ключем -bot:
 ```sh
-bash <(curl -Ls https://github.com/cortez24rus/xui-reverse-proxy/raw/refs/heads/test/xui-rp-install-server.sh) -bot
+bash <(curl -Ls https://github.com/cortez24rus/xui-reverse-proxy/raw/refs/heads/main_archive/xui-rp-install-server.sh) -bot
 ```
 
+bash <(https://github.com/cortez24rus/xui-reverse-proxy/raw/refs/heads/main_archive/xui-rp-install-server.sh) -bot
 После этого скрипт запросит у вас необходимую информацию для конфигурации:
 
 ![image](https://github.com/user-attachments/assets/dc60caee-1b01-40c9-a344-e0a67ebfc2ee)
